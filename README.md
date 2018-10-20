@@ -11,5 +11,5 @@ While UAVs working on a new and sophisticated environment, the camera on the UAV
 5. Implementing Bidirectional RRT in 3D maps.
 
 ### Current results:
-!image(c1.png) !images(c2.png)
+![image](c1.png)   ![image](c2.png)
 
