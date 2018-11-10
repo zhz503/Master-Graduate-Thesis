@@ -13,9 +13,11 @@ While UAVs working on a new and sophisticated environment, the camera on the UAV
 7. Considering dynamic and kinematic UAV models. 
 
 ### Current results:
-Bi-RRT in Point Cloud map：
+Bi-RRT in Point Cloud map:
+![image](week7-01.jpg)  
+![image](week7-02.jpg)   
 Basic RRT in Point Cloud map:
-![image](week_6_01.png)  
+![image](week_6_01.jpg)  
 RRT in 3D map:
 ![image](week3-1.png)
 Basic RRT:  
