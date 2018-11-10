@@ -9,8 +9,9 @@ While UAVs working on a new and sophisticated environment, the camera on the UAV
 3. Developed Bidirectional RRT in 2D maps.
 4. Searching for other motion planning algorithms.
 5. Implemented Bidirectional RRT in 3D point cloud maps.
-6. Solve the Collision Detection problem in Point Cloud maps.
-7. Considering dynamic and kinematic UAV models. 
+6. Extracted the Point Cloud data from existing maps.
+7. Solve the Collision Detection problem in Point Cloud maps.
+8. Considering dynamic and kinematic UAV models. 
 
 ### Current results:
 Bi-RRT in Point Cloud map:
